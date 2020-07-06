@@ -1,0 +1,3 @@
+'for' es un bucle que repetira una operacion hasta que se de una condicion. Consta de 3 partes, la declaracion de la variable, la expresion condicional y el incremento de la variable.
+
+`&&`, `||`, `!` Son operadores logicos, que sirven para combinar dos expresiones de igualdad y preguntar si una u otra es verdadera o ambas. AND Y , OR O, NOT NO
