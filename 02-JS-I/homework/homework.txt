@@ -1,0 +1,5 @@
+Variables: Es un elemento de memoria que sirve para almacenar el valor de algo y poder usarlo despues. 
+Strings: Son cadenas de caracteres que deben escribirse entre comillas. ej. 'hola', 'jimena' '765' Un numero puede ser un string, si esta entre comillas no tendrá valor numerico sino que será la palabra.
+Funciones: Son objetos que se realizan para articular, cambiar, comparar, combinar las diferentes variables. Pueden invocarse con su nombre y mediante los argumentos se le asignan los valores a esas variables, devuelve un resultado. 
+Declaraciones 'if' if, se trata de una estructura de control de flujo, es una condicion que de cumplirse ejecutara una instruccion o sentencia, una funcion puede incluir varios if, else, etc. 
+Valores booleanos. Son true o false.  
